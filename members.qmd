@@ -1,0 +1,116 @@
+---
+title: "Members"
+format: html
+editor: visual
+---
+
+</br>
+
+### PI: **Changjun LEE**
+
+</br>
+
+::: grid
+::: g-col-4
+![](img/profile_cj_lee.jpg){width="130"}
+:::
+
+::: g-col-8
+
+Sungkyunkwan University (SKKU)
+
+College of Computing and Informatics
+
+School of Convergence (*Dep. of Culture & Technology*)
+
+✉ changjunlee\@skku.edu
+
+[changjunlee.com](https://www.changjunlee.com)
+:::
+:::
+
+> As a computational social scientist, CJ brings a unique interdisciplinary perspective to the fields of economics, innovation studies, and convergence technologies. With a background in natural sciences, including a bachelor's degree in biology and chemistry, I went on to earn a Ph.D. in technology management, economics, and policy. His global research experience includes working as a postdoctoral researcher at the National University of Singapore and University College Dublin. My research focuses on utilizing computational methods to tackle a wide range of social phenomena, including technology evolution & regional growth, knowledge management, and technology & convergence innovation. He was responsible for the Department of Media & Social Informatics and the Institution of Creativity & Interaction at Hanyang University in South Korea, and now He has joined the School of Convergence at SungKyunKwan University. He is passionate about using technology and data to drive innovation and solve real-world problems.
+
+</br>
+
+### Postdoc Fellow
+
+</br>
+
+-   Yun-Woo CHOI
+
+    ::: grid
+    ::: g-col-4
+    <Image>
+    :::
+
+    ::: g-col-8
+    Hanyang University
+
+    Dep. of Advertising and Public Relations
+
+    ✉ yunwoochoi\@hanyang.ac.kr
+    :::
+    :::
+
+    <div>
+
+    > Yun-Woo Choi is completing a Ph.D course in advertising and public relations at Hanyang University, South Korea. Her main research focuses on digital media and advertising, consumer behavior, and data science. She's got the Best Paper Award presented to Influences of Social-Face Sensitivity and SNS Social Capital on Ethical Consumption in Korea at the 11th International Conference Convergence Technology 20201 hosted by Korea Convergence Society.
+
+    </div>
+
+</br>
+
+### Ph.D. Students
+
+</br>
+
+-   Seung Kyung LEE
+
+    ::: grid
+    ::: g-col-4
+    ![](img/sk.jpg){width="130"}
+    :::
+
+    ::: g-col-8
+    Hanyang University
+
+    Dep. of Media & Informatics
+
+    ✉ leesinganna\@hanyang.ac.kr
+    :::
+    :::
+
+</br>
+
+### Master's degree Students
+
+</br>
+
+-   Ye Seo LIM
+
+    ::: grid
+    ::: g-col-4
+    <image>
+    :::
+
+    ::: g-col-8
+    Dep. of Immersive Media Engineering
+
+    Sungkyunkwan University
+    :::
+    :::
+
+</br>
+
+### Undergraduate Researcher
+
+-   Dong Ho KIM (School of Convergence, SKKU)
+
+</br>
+
+### Graduate Alumni Network
+
+-   Jongwha KIM (Ph.D. Student \@University of Georgia)
+
+-   Jieun PARK (Researcher \@[미디어미래연구소](https://www.mfi.re.kr/))

@@ -1,0 +1,45 @@
+---
+title: "Culture & Technology Convergence Lab"
+subtitle: "Entertaining People with Tech"
+comments: False
+format:
+  html:
+    page-layout: full
+    
+about:
+  template: trestles
+  image: img/logo_transparent.png
+  image-shape: round
+  links:
+ 
+    - icon: instagram
+      # text: Instagram
+      href: https://www.instagram.com/lee_changjun_/
+    - icon: envelope
+      # text: Email
+      href: mailto:changjun.chris.lee@gmail.com
+---
+
+At the **Culture & Technology Convergence Lab**, we explore the symbiotic relationship between cultural phenomena and technological advancements. In an era where digital innovation continuously reshapes social dynamics, the CTCL serves as a premier interdisciplinary research nexus dedicated **to understanding and influencing the co-evolution of technology and human cultural practices**.
+
+Our lab specializes in examining how content and media trends and technological advance impact human behavior, health conditions, innovation pathways, and technology management & policy. Our research is **anchored in computational social science methodologies**, leveraging big data, and algorithmic approaches to decode the complex interactions between society and technology.
+
+
+```{mermaid}
+flowchart LR
+
+  A[Tech] --> B(Human Behavior)
+  B --> C{Society}
+  C --> D{Culture}
+  B --> D
+  D --> A
+
+```
+
+</br>
+
+Our mission is to foster a collaborative research environment where cutting-edge computational techniques inform public policy decisions, and sociocultural understanding enriches the design and governance of emerging technologies. The CTCL aims to be at the forefront of generating actionable insights for a sustainable and inclusive digital future, harnessing the power of innovation while navigating the challenges posed by rapid technological change.
+
+CTCL endeavors to not only advance academic knowledge but also to guide industry practices and inform government regulations. The lab is a melting pot of experts in media studies, innovation research, HCI, technology management, and policy, working together to craft a tech-infused society that remains true to human values and cultural diversity.
+
+About our team members.. [here](members.qmd)
