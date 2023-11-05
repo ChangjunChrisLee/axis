@@ -43,7 +43,9 @@ School of Convergence (*Dep. of Culture & Technology*)
 
     ::: grid
     ::: g-col-4
-    <Image>
+    
+    ![](img/yw_profile_2.jpg){width="130"}
+
     :::
 
     ::: g-col-8
