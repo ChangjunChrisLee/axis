@@ -69,6 +69,12 @@ School of Convergence (*Dep. of Culture & Technology*)
 
 </br>
 
+-   Jieun PARK
+
+
+</br>
+
+
 -   Seung Kyung LEE
 
     ::: grid
@@ -95,7 +101,7 @@ School of Convergence (*Dep. of Culture & Technology*)
 
     ::: grid
     ::: g-col-4
-    <image>
+    ![](img/ys_profile.jpeg){width="130"}
     :::
 
     ::: g-col-8
@@ -104,6 +110,8 @@ School of Convergence (*Dep. of Culture & Technology*)
     Sungkyunkwan University
     :::
     :::
+    
+    > YS majored in media and social informatics and double majored in computer science. She is interested in the convergence of social science, such as media contents, and engineering science, such as computing and AI.
 
 </br>
 
