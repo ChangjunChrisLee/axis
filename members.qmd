@@ -99,10 +99,8 @@ School of Convergence (*Dep. of Culture & Technology*)
     Dep. of Immersive Media Engineering
 
     Sungkyunkwan University
-    
-    ✉ ivisy6952\@g.skku.edu
 
-    
+    ✉ ivisy6952\@g.skku.edu
     :::
     :::
 
@@ -114,7 +112,6 @@ School of Convergence (*Dep. of Culture & Technology*)
 
 -   Gahui KIM
 
-
     ::: grid
     ::: g-col-4
     ![](img/gh_profile.jpg){width="130"}
@@ -124,17 +121,14 @@ School of Convergence (*Dep. of Culture & Technology*)
     School of Convergence (*Dep. of Culture & Technology*)
 
     Sungkyunkwan University
-    
-    ✉ gahee020907\@g.skku.edu
 
+    ✉ gahee020907\@g.skku.edu
     :::
     :::
 
     > Gahui majored in Culture&Technology Convergence and International Trade. She is interested in cultural content and immersive media, focusing on the relationship between user experience and content.
-    
 
 -   Ga Hyeon KIM
-
 
     ::: grid
     ::: g-col-4
@@ -145,18 +139,14 @@ School of Convergence (*Dep. of Culture & Technology*)
     School of Convergence (*Dep. of Culture & Technology*)
 
     Sungkyunkwan University
-    
-    ✉ mulik425\@g.skku.edu
 
+    ✉ mulik425\@g.skku.edu
     :::
     :::
 
     > Ga Hyeon majored in Culture &Technology Convergence and double majored in Department of Computer Science and Engineering. She is interested in Entertainment and Content Business based on AI & Immersive Technology.
-    
-    
 
 -   Yebom CHOI
-
 
     ::: grid
     ::: g-col-4
@@ -167,17 +157,12 @@ School of Convergence (*Dep. of Culture & Technology*)
     School of Convergence (*Dep. of Culture & Technology*)
 
     Sungkyunkwan University
-    
+
     ✉ yebom618\@g.skku.edu
-
-
     :::
     :::
 
     > Yebom majored in Culture&Technology Convergence and double majored in Psychology. She is interested in the high technology industry based on understanding of humans.
-    
-    
-
 
 </br>
 
