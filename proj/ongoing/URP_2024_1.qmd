@@ -6,7 +6,7 @@ Funding: "SKKU"
 Start: "2024-01-01"
 Due: "2024-06-30"
 State: "Ongoing"
-image: "img/chatbot.png"
+image: "img/URP_2023_winter.jpg"
 categories:
  - 커뮤니케이션
  - 제너러티브아트
@@ -16,6 +16,8 @@ editor:
   markdown: 
     wrap: sentence
 ---
+
+![](img/URP_2023_winter.jpg)
 
 <br>
 
@@ -41,9 +43,13 @@ editor:
 
 <br>
 
-**배리어프리 문화예술 참여를 위한 제너러티브 아트 연구**
+**배리어프리 문화예술 참여를 위한 제너러티브 아트**
 
 > 학술 연구/프로그래밍 및 소프트웨어 개발/문화 및 예술 프로젝트
+
+<br>
+
+<https://wiggly-layer-9f1.notion.site/41238dc75876409c9e7686b396608a73>
 
 <br>
 
