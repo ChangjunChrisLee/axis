@@ -164,6 +164,26 @@ School of Convergence (*Dep. of Culture & Technology*)
 
     > Yebom majored in Culture&Technology Convergence and double majored in Psychology. She is interested in the high technology industry based on understanding of humans.
 
+-   Seonwoo LEE
+
+    ::: grid
+    ::: g-col-4
+    ![](img/swlee_profile.jpg){width="130"}
+    :::
+
+    ::: g-col-8
+    School of Convergence (*Dep. of Culture & Technology*)
+
+    Sungkyunkwan University
+
+    ✉ sw122\@g.skku.edu
+    :::
+    :::
+    
+    > Seonwoo majored in Culture&Technology Convergence. She is interested in artificial intelligence and immersive media, focusing on user experience through the study of the human cognitive science and psychology.
+
+    
+
 </br>
 
 ### Graduate Alumni Network
