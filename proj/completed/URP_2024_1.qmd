@@ -5,7 +5,7 @@ description: "우수학부생연구프로젝트(URP)"
 Funding: "SKKU"
 Start: "2024-01-01"
 Due: "2024-06-30"
-State: "Ongoing"
+State: "Completed"
 image: "img/URP_2023_winter.jpg"
 categories:
  - 커뮤니케이션
