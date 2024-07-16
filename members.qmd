@@ -110,6 +110,8 @@ Sungkyunkwan University (SKKU)
 
     > YS majored in media and social informatics and double majored in computer science. She is interested in the convergence of social science, such as media contents, and engineering science, such as computing and AI.
 
+<bR>
+
 -   김수연
 
     ::: grid
@@ -127,6 +129,8 @@ Sungkyunkwan University (SKKU)
     :::
 
     > Bio
+
+<br>
 
 -   Gahui KIM \| 김가희
 
@@ -148,9 +152,8 @@ Sungkyunkwan University (SKKU)
 
     > Gahui majored in Culture&Technology Convergence and International Trade. She is interested in cultural content and immersive media, focusing on the relationship between user experience and content.
 
-```{=html}
-<!-- -->
-```
+<br>
+
 -   Yebom CHOI \| 최예봄
 
     ::: grid
@@ -175,6 +178,8 @@ Sungkyunkwan University (SKKU)
 
 ### Undergraduate Researcher
 
+<br>
+
 -   Ga Hyeon KIM \| 김가현
 
     ::: grid
@@ -192,6 +197,8 @@ Sungkyunkwan University (SKKU)
     :::
 
     > Ga Hyeon majored in Culture &Technology Convergence and double majored in Department of Computer Science and Engineering. She is interested in Entertainment and Content Business based on AI & Immersive Technology.
+
+<bR>
 
 -   Seonwoo LEE \| 이선우
 
