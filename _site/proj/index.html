@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -47,7 +47,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -56,6 +62,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -123,15 +130,42 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">CTCL</span>
     </a>
@@ -143,32 +177,32 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../members.html" rel="" target="">
- <span class="menu-text">Members</span></a>
+    <a class="nav-link" href="../members.html"> 
+<span class="menu-text">Members</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../proj/index.html" rel="" target="" aria-current="page">
- <span class="menu-text">Projects</span></a>
+    <a class="nav-link active" href="../proj/index.html" aria-current="page"> 
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Research</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-research">    
         <li>
-    <a class="dropdown-item" href="../research/index.html" rel="" target="">
+    <a class="dropdown-item" href="../research/index.html">
  <span class="dropdown-text">Publications</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../research/working.html" rel="" target="">
+    <a class="dropdown-item" href="../research/working.html">
  <span class="dropdown-text">Work in progress</span></a>
   </li>  
     </ul>
   </li>
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -189,7 +223,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -197,12 +231,14 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <p><br><br></p>
 <div id="listing-ongoing" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="커뮤니케이션,인간공학,챗봇,생성형AI,자기노출,심리상담" data-listing-file-modified-sort="1697604620643" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="0" data-categories="커뮤니케이션,인간공학,챗봇,생성형AI,자기노출,심리상담" data-listing-file-modified-sort="1697604620643" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <a href="../proj/ongoing/nrf_convergence.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -212,7 +248,6 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="no-anchor card-title listing-title">
 커뮤니케이션과 인간공학이 만나는 심리 상담 챗봇
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -246,13 +281,12 @@ State
 Ongoing
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="ongoing,NRF,메타버스,멀티페르소나,인지강화,창의도전" data-listing-file-modified-sort="1706793412615" data-listing-reading-time-sort="5">
+<div class="g-col-1" data-index="1" data-categories="ongoing,NRF,메타버스,멀티페르소나,인지강화,창의도전" data-listing-file-modified-sort="1706793412615" data-listing-reading-time-sort="5" data-listing-word-count-sort="884">
 <a href="../proj/ongoing/1_proj.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -262,7 +296,6 @@ Ongoing
 <h5 class="no-anchor card-title listing-title">
 가상세계 멀티 페르소나 성향과 사용자의 인지 강화
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -296,7 +329,6 @@ State
 Ongoing
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
@@ -313,7 +345,7 @@ No matching items
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-completed">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="커뮤니케이션,제너러티브아트,문화예술,컬쳐테크" data-listing-file-modified-sort="1711612493755" data-listing-reading-time-sort="5">
+<div class="g-col-1" data-index="0" data-categories="커뮤니케이션,제너러티브아트,문화예술,컬쳐테크" data-listing-file-modified-sort="1711612493755" data-listing-reading-time-sort="5" data-listing-word-count-sort="859">
 <a href="../proj/completed/URP_2024_1.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -323,7 +355,6 @@ No matching items
 <h5 class="no-anchor card-title listing-title">
 배리어프리 문화예술 참여를 위한 제너러티브 아트
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -357,13 +388,12 @@ State
 Completed
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="completed,건강보험공단,소셜미디어,매스미디어,텍스트분석,이슈분석" data-listing-file-modified-sort="1706793266949" data-listing-reading-time-sort="5">
+<div class="g-col-1" data-index="1" data-categories="completed,건강보험공단,소셜미디어,매스미디어,텍스트분석,이슈분석" data-listing-file-modified-sort="1706793266949" data-listing-reading-time-sort="5" data-listing-word-count-sort="979">
 <a href="../proj/completed/gunbo.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -373,7 +403,6 @@ Completed
 <h5 class="no-anchor card-title listing-title">
 언론과 소셜 미디어 상의 건강보험공단 관련 이슈 분석
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -407,13 +436,12 @@ State
 Completed
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="KOBACO,시청률조사,미디어다양성,탐색적분석,데이터사이언스" data-listing-file-modified-sort="1706793273045" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="2" data-categories="KOBACO,시청률조사,미디어다양성,탐색적분석,데이터사이언스" data-listing-file-modified-sort="1706793273045" data-listing-reading-time-sort="1" data-listing-word-count-sort="158">
 <a href="../proj/completed/kobaco_1.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -423,7 +451,6 @@ Completed
 <h5 class="no-anchor card-title listing-title">
 국내 시청기록 분석을 통한 미디어다양성 진단연구
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -457,13 +484,12 @@ State
 Completed
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="KISDI,디지털전환,산업생태계,토픽모델링,산업분류모델,네트워크분석" data-listing-file-modified-sort="1706793341169" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="3" data-categories="KISDI,디지털전환,산업생태계,토픽모델링,산업분류모델,네트워크분석" data-listing-file-modified-sort="1706793341169" data-listing-reading-time-sort="2" data-listing-word-count-sort="311">
 <a href="../proj/completed/kisdi_1.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -473,7 +499,6 @@ Completed
 <h5 class="no-anchor card-title listing-title">
 디지털 전환 생태계 분석 및 토픽 모델링을 통한 산업 분류 방안 모색
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -507,13 +532,12 @@ State
 Completed
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="ongoing,통계청,디지털전환,국가발전지표,지표개발,빅데이터" data-listing-file-modified-sort="1706793278751" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="4" data-categories="ongoing,통계청,디지털전환,국가발전지표,지표개발,빅데이터" data-listing-file-modified-sort="1706793278751" data-listing-reading-time-sort="2" data-listing-word-count-sort="325">
 <a href="../proj/completed/soscial_idx.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -523,7 +547,6 @@ Completed
 <h5 class="no-anchor card-title listing-title">
 디지털전환에 따른 사회부문 국가발전지표 진단연구
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -557,13 +580,12 @@ State
 Completed
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="ongoing,NRF,플랫폼,효용추정,공동연구" data-listing-file-modified-sort="1697604620580" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="5" data-categories="ongoing,NRF,플랫폼,효용추정,공동연구" data-listing-file-modified-sort="1697604620580" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
 <a href="../proj/completed/3_proj.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -573,7 +595,6 @@ Completed
 <h5 class="no-anchor card-title listing-title">
 플랫폼 산업의 경제 효용 추정: 자국 검색 플랫폼이 온라인 산업에 미치는 영향
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -607,13 +628,12 @@ State
 Completed
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="completed,ERC,TechEvo,RegionalStudy,Innovation" data-listing-file-modified-sort="1697604620581" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="6" data-categories="completed,ERC,TechEvo,RegionalStudy,Innovation" data-listing-file-modified-sort="1697604620581" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
 <a href="../proj/completed/7_proj.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -623,7 +643,6 @@ Completed
 <h5 class="no-anchor card-title listing-title">
 Technology Evolution in Regional Economies
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -657,13 +676,12 @@ State
 Completed
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="completed,NRF,기술정책,혁신전략,빅데이터" data-listing-file-modified-sort="1697604620580" data-listing-reading-time-sort="5">
+<div class="g-col-1" data-index="7" data-categories="completed,NRF,기술정책,혁신전략,빅데이터" data-listing-file-modified-sort="1697604620580" data-listing-reading-time-sort="5" data-listing-word-count-sort="944">
 <a href="../proj/completed/2_proj.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -673,7 +691,6 @@ Completed
 <h5 class="no-anchor card-title listing-title">
 미래 기술 정책을 위한 한국형 스마트 특성화 전략 모델 구축
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -707,13 +724,12 @@ State
 Completed
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="completed,용역과제,녹색기술,특허분석" data-listing-file-modified-sort="1697604620580" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="8" data-categories="completed,용역과제,녹색기술,특허분석" data-listing-file-modified-sort="1697604620580" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
 <a href="../proj/completed/4_proj.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -723,7 +739,6 @@ Completed
 <h5 class="no-anchor card-title listing-title">
 탄소시장 대응 녹색기술 이전 및 기후변화 대응 기술사업모델을 통한 탄소시장 진출의 전략 대응도 및 전략 마련 : 특허분석을 기반으로
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -757,13 +772,12 @@ State
 Completed
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="completed,용역과제,육군,빅데이터,홍보" data-listing-file-modified-sort="1697604620581" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="9" data-categories="completed,용역과제,육군,빅데이터,홍보" data-listing-file-modified-sort="1697604620581" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
 <a href="../proj/completed/5_proj.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -773,7 +787,6 @@ Completed
 <h5 class="no-anchor card-title listing-title">
 육군 인력획득 홍보 대상의 성향 분석 빅데이터 모형 연구
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -807,13 +820,12 @@ State
 Completed
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="10" data-categories="completed,헬스커뮤니케이션,건강형평성,건강지도" data-listing-file-modified-sort="1697604620581" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="10" data-categories="completed,헬스커뮤니케이션,건강형평성,건강지도" data-listing-file-modified-sort="1697604620581" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
 <a href="../proj/completed/6_proj.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -823,7 +835,6 @@ Completed
 <h5 class="no-anchor card-title listing-title">
 건강 형평성 파악을 위한 안산시 건강지도 제작 연구
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -857,13 +868,12 @@ State
 Completed
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="11" data-categories="completed,NUS,Demography,PublicPolicy" data-listing-file-modified-sort="1697604620581" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="11" data-categories="completed,NUS,Demography,PublicPolicy" data-listing-file-modified-sort="1697604620581" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
 <a href="../proj/completed/8_proj.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -873,7 +883,6 @@ Completed
 <h5 class="no-anchor card-title listing-title">
 Working Hours and Familial Supports
 </h5>
-
 <table class="card-other-values">
 <tbody><tr>
 <td>
@@ -907,7 +916,6 @@ State
 Completed
 </td>
 </tr>
-
 </tbody></table>
 </div>
 </div>
@@ -1000,10 +1008,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1013,8 +1038,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1026,7 +1060,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1070,6 +1227,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1095,6 +1253,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1157,7 +1341,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">License: <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</div>   
+    <div class="nav-footer-left">
+<p>License: <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
@@ -1173,6 +1359,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+
 
 
 

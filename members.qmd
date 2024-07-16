@@ -8,7 +8,7 @@ editor: visual
 
 ### PI
 
-#### **Changjun LEE**
+#### **Changjun LEE \| 이창준**
 
 </br>
 
@@ -42,7 +42,7 @@ Sungkyunkwan University (SKKU)
 
 </br>
 
--   Yun-Woo CHOI
+-   Yun-Woo CHOI \| 최윤우
 
     ::: grid
     ::: g-col-4
@@ -70,7 +70,7 @@ Sungkyunkwan University (SKKU)
 
 </br>
 
--   Seung Kyung LEE
+-   Seung Kyung LEE \| 이승경
 
     ::: grid
     ::: g-col-4
@@ -92,7 +92,7 @@ Sungkyunkwan University (SKKU)
 
 </br>
 
--   Ye Seo LIM
+-   Ye Seo LIM \| 임예서
 
     ::: grid
     ::: g-col-4
@@ -100,7 +100,7 @@ Sungkyunkwan University (SKKU)
     :::
 
     ::: g-col-8
-    Dep. of Immersive Media Engineering
+    Graduate School of Immersive Media Engineering
 
     Sungkyunkwan University
 
@@ -110,7 +110,25 @@ Sungkyunkwan University (SKKU)
 
     > YS majored in media and social informatics and double majored in computer science. She is interested in the convergence of social science, such as media contents, and engineering science, such as computing and AI.
 
--   Gahui KIM
+-   김수연
+
+    ::: grid
+    ::: g-col-4
+    Pic
+    :::
+
+    ::: g-col-8
+    Graduate School of Interaction Science
+
+    Sungkyunkwan University
+
+    ✉ mail
+    :::
+    :::
+
+    > Bio
+
+-   Gahui KIM \| 김가희
 
     ::: grid
     ::: g-col-4
@@ -118,6 +136,8 @@ Sungkyunkwan University (SKKU)
     :::
 
     ::: g-col-8
+    Graduate School of Immersive Media Engineering
+
     School of Convergence (*Dep. of Culture & Technology*)
 
     Sungkyunkwan University
@@ -131,7 +151,7 @@ Sungkyunkwan University (SKKU)
 ```{=html}
 <!-- -->
 ```
--   Yebom CHOI
+-   Yebom CHOI \| 최예봄
 
     ::: grid
     ::: g-col-4
@@ -139,6 +159,8 @@ Sungkyunkwan University (SKKU)
     :::
 
     ::: g-col-8
+    Graduate School of Interaction Science
+
     School of Convergence (*Dep. of Culture & Technology*)
 
     Sungkyunkwan University
@@ -153,7 +175,7 @@ Sungkyunkwan University (SKKU)
 
 ### Undergraduate Researcher
 
--   Ga Hyeon KIM
+-   Ga Hyeon KIM \| 김가현
 
     ::: grid
     ::: g-col-4
@@ -171,7 +193,7 @@ Sungkyunkwan University (SKKU)
 
     > Ga Hyeon majored in Culture &Technology Convergence and double majored in Department of Computer Science and Engineering. She is interested in Entertainment and Content Business based on AI & Immersive Technology.
 
--   Seonwoo LEE
+-   Seonwoo LEE \| 이선우
 
     ::: grid
     ::: g-col-4
