@@ -15,22 +15,22 @@ editor: visual
 ::: grid
 ::: g-col-4
 ![](img/profile_cj_lee.jpg){width="130"}
+
+[changjunlee.com](https://www.changjunlee.com)
 :::
 
 ::: g-col-8
 Sungkyunkwan University (SKKU)
 
--   School of Convergence. \
+-   School of Convergence.\
     [Dep. of Culture & Technology](https://sco.skku.edu/sco/intro/major_culture.do) (***Head***)
 
--   Dep. of [Interaction Science](https://is.skku.edu/)
+-   Graduate School
 
--   Dep. of Immersive Media Engineering \
-    ([Metaverse Graduate School](https://meta.skku.edu/meta/index.do))
+    -   Dep. of [Interaction Science](https://is.skku.edu/)
 
-✉ changjunlee\@skku.edu
-
-[changjunlee.com](https://www.changjunlee.com)
+    -   Dep. of Immersive Media Engineering\
+        ([Metaverse Graduate School](https://meta.skku.edu/meta/index.do))
 :::
 :::
 
@@ -50,11 +50,11 @@ Sungkyunkwan University (SKKU)
     :::
 
     ::: g-col-8
-    Hanyang University
+    Sungkyunkwan University
 
-    Dep. of Advertising and Public Relations
+    Institution of Interaction Science
 
-    ✉ yunwoochoi\@hanyang.ac.kr
+    ✉ yunwoochoi1004\@daum.net
     :::
     :::
 
@@ -110,10 +110,6 @@ Sungkyunkwan University (SKKU)
 
     > YS majored in media and social informatics and double majored in computer science. She is interested in the convergence of social science, such as media contents, and engineering science, such as computing and AI.
 
-</br>
-
-### Undergraduate Researcher
-
 -   Gahui KIM
 
     ::: grid
@@ -132,24 +128,9 @@ Sungkyunkwan University (SKKU)
 
     > Gahui majored in Culture&Technology Convergence and International Trade. She is interested in cultural content and immersive media, focusing on the relationship between user experience and content.
 
--   Ga Hyeon KIM
-
-    ::: grid
-    ::: g-col-4
-    ![](img/ghyun_profile.jpg){width="130"}
-    :::
-
-    ::: g-col-8
-    School of Convergence (*Dep. of Culture & Technology*)
-
-    Sungkyunkwan University
-
-    ✉ mulik425\@g.skku.edu
-    :::
-    :::
-
-    > Ga Hyeon majored in Culture &Technology Convergence and double majored in Department of Computer Science and Engineering. She is interested in Entertainment and Content Business based on AI & Immersive Technology.
-
+```{=html}
+<!-- -->
+```
 -   Yebom CHOI
 
     ::: grid
@@ -167,6 +148,28 @@ Sungkyunkwan University (SKKU)
     :::
 
     > Yebom majored in Culture&Technology Convergence and double majored in Psychology. She is interested in the high technology industry based on understanding of humans.
+
+</br>
+
+### Undergraduate Researcher
+
+-   Ga Hyeon KIM
+
+    ::: grid
+    ::: g-col-4
+    ![](img/ghyun_profile.jpg){width="130"}
+    :::
+
+    ::: g-col-8
+    School of Convergence (*Dep. of Culture & Technology*)
+
+    Sungkyunkwan University
+
+    ✉ mulik425\@g.skku.edu
+    :::
+    :::
+
+    > Ga Hyeon majored in Culture &Technology Convergence and double majored in Department of Computer Science and Engineering. She is interested in Entertainment and Content Business based on AI & Immersive Technology.
 
 -   Seonwoo LEE
 
@@ -187,9 +190,3 @@ Sungkyunkwan University (SKKU)
     > Seonwoo majored in Culture&Technology Convergence. She is interested in artificial intelligence and immersive media, focusing on user experience through the study of the human cognitive science and psychology.
 
 </br>
-
-### Graduate Alumni Network
-
--   Jongwha KIM (Ph.D. Student \@University of Georgia)
-
--   Jieun PARK (Researcher \@[미디어미래연구소](https://www.mfi.re.kr/))
