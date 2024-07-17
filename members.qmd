@@ -112,11 +112,11 @@ Sungkyunkwan University (SKKU)
 
 <bR>
 
--   김수연
+-   Sooyun KIM \| 김수연
 
     ::: grid
     ::: g-col-4
-    Pic
+    \<PIC\>
     :::
 
     ::: g-col-8
@@ -124,11 +124,11 @@ Sungkyunkwan University (SKKU)
 
     Sungkyunkwan University
 
-    ✉ mail
+    ✉ soo1234\@g.skku.edu
     :::
     :::
 
-    > Bio
+    > Sooyun majored in Chemistry and minored in Psychology. She is interested in user experience (UX) and human-computer interaction (HCI), with a focus on AI, digital platforms, and immersive media.
 
 <br>
 
