@@ -2,20 +2,12 @@
 title: Working in Progress
 ---
 
--   Movie-Country Relatedness Density and Entry TOP20
-
--   Social Distancing, Innovation Adoption, and Privacy Concern
-
 -   Dominant and Spark Technologies in Business Methods Innovation
-
--   Grandma's digital play goes to FinTech
 
 -   Changes in OTT Users’ Intentions due to Psychological Ownership: Analysis on differences between single-homing and multi-homing users
 
 -   Towards a Holistic Understanding of Digital Content Subscription: An Examination of Consumer Preferences and Correlations
     
--   Predicting Wearable IoT Adoption Identifying Core Consumers through Machine Learning Algorithms
-
 -   The Gamified Metaverse: How Various Attributes Affect Consumer Choices and Preferences
 
 -   Homogeneous Media Consumption and Its Impact on Political Polarization: Insights from South Korea
