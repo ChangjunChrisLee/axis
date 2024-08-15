@@ -12,14 +12,13 @@ website:
     right:
       - href: members.qmd
         text: Members
+      - text: Activity
+        href: research/working.qmd
       - text: Projects
         href: proj/index.qmd
-      - text: Research
-        menu:
-          - text: Publications
-            href: research/index.qmd
-          - text: Work in progress
-            href: research/working.qmd
+      - text: Publications
+        href: research/index.qmd
+
       
 format:
   html:

@@ -39,8 +39,21 @@ format:
 
 ---
 
-<br></br>
+<br>
+
+## Ongoing Projects
+
+<br>
 
 :::{#ongoing}
+:::
+
+<br>
+
+## Completed Projects
+
+<br>
+
+:::{#completed}
 :::
 
