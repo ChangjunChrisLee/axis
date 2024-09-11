@@ -116,7 +116,7 @@ Sungkyunkwan University (SKKU)
 
     ::: grid
     ::: g-col-4
-    \<PIC\>
+    ![](img/ksy_profile.jpg){width="130"}
     :::
 
     ::: g-col-8
