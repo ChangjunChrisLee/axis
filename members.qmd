@@ -42,7 +42,7 @@ Sungkyunkwan University (SKKU)
 
 </br>
 
--   Yun-Woo CHOI \| 최윤우
+-   Yun-Woo CHOI \| **최윤우**
 
     ::: grid
     ::: g-col-4
@@ -70,7 +70,30 @@ Sungkyunkwan University (SKKU)
 
 </br>
 
--   Seung Kyung LEE \| 이승경
+-   Woo Hyun CHOI \| **최우현**
+
+    ::: grid
+    ::: g-col-4
+
+    ![](img/W_Choi.jpg){width="130"}
+    :::
+    
+    ::: g-col-8
+    Sungkyunkwan Universiy
+
+    Department of Interdisciplinary Program in Studies of Arts\
+    Graduate School of Art
+
+
+    ✉ woohxxn\@g.skku.edu
+    :::
+    :::
+
+> Choi Woo-hyun graduated from Sungkyunkwan University with a degree in Dance (Bachelor of Arts in Dance), Sports Science (Bachelor of Science in Sports Science), and Studies of Glocal-Cultural Contents linkage (Bachelor of Modern Culture) and from Sangmyung University with a degree in Global Culture Content (Major of Arts Contents Convergence, Master of Arts). She is interested in researching Technology Art and focuses specifically on the convergence of Dance and Technology.
+
+<br>
+
+-   Seung Kyung LEE \| **이승경**
 
     ::: grid
     ::: g-col-4
@@ -92,7 +115,7 @@ Sungkyunkwan University (SKKU)
 
 </br>
 
--   Ye Seo LIM \| 임예서
+-   Ye Seo LIM \| **임예서**
 
     ::: grid
     ::: g-col-4
@@ -100,9 +123,11 @@ Sungkyunkwan University (SKKU)
     :::
 
     ::: g-col-8
-    Graduate School of Immersive Media Engineering
 
     Sungkyunkwan University
+
+    Graduate School of Immersive Media Engineering
+
 
     ✉ ivisy6952\@g.skku.edu
     :::
@@ -112,7 +137,7 @@ Sungkyunkwan University (SKKU)
 
 <bR>
 
--   Sooyun KIM \| 김수연
+-   Sooyun KIM \| **김수연**
 
     ::: grid
     ::: g-col-4
@@ -120,9 +145,11 @@ Sungkyunkwan University (SKKU)
     :::
 
     ::: g-col-8
-    Graduate School of Interaction Science
 
     Sungkyunkwan University
+
+    Graduate School of Interaction Science
+
 
     ✉ soo1234\@g.skku.edu
     :::
@@ -132,7 +159,7 @@ Sungkyunkwan University (SKKU)
 
 <br>
 
--   Gahui KIM \| 김가희
+-   Gahui KIM \| **김가희**
 
     ::: grid
     ::: g-col-4
@@ -140,11 +167,13 @@ Sungkyunkwan University (SKKU)
     :::
 
     ::: g-col-8
-    Graduate School of Immersive Media Engineering
+
+    Sungkyunkwan University
 
     School of Convergence (*Dep. of Culture & Technology*)
 
-    Sungkyunkwan University
+    Graduate School of Immersive Media Engineering
+
 
     ✉ gahee020907\@g.skku.edu
     :::
@@ -154,7 +183,7 @@ Sungkyunkwan University (SKKU)
 
 <br>
 
--   Yebom CHOI \| 최예봄
+-   Yebom CHOI \| **최예봄**
 
     ::: grid
     ::: g-col-4
@@ -162,11 +191,13 @@ Sungkyunkwan University (SKKU)
     :::
 
     ::: g-col-8
+
+    Sungkyunkwan University
+
     Graduate School of Interaction Science
 
     School of Convergence (*Dep. of Culture & Technology*)
 
-    Sungkyunkwan University
 
     ✉ yebom618\@g.skku.edu
     :::
@@ -180,7 +211,7 @@ Sungkyunkwan University (SKKU)
 
 <br>
 
--   Ga Hyeon KIM \| 김가현
+-   Ga Hyeon KIM \| **김가현**
 
     ::: grid
     ::: g-col-4
@@ -188,9 +219,10 @@ Sungkyunkwan University (SKKU)
     :::
 
     ::: g-col-8
-    School of Convergence (*Dep. of Culture & Technology*)
 
     Sungkyunkwan University
+
+    School of Convergence (*Dep. of Culture & Technology*)
 
     ✉ mulik425\@g.skku.edu
     :::
@@ -200,7 +232,7 @@ Sungkyunkwan University (SKKU)
 
 <bR>
 
--   Seonwoo LEE \| 이선우
+-   Seonwoo LEE \| **이선우**
 
     ::: grid
     ::: g-col-4
@@ -208,10 +240,11 @@ Sungkyunkwan University (SKKU)
     :::
 
     ::: g-col-8
-    School of Convergence (*Dep. of Culture & Technology*)
 
     Sungkyunkwan University
 
+    School of Convergence (*Dep. of Culture & Technology*)
+    
     ✉ sw122\@g.skku.edu
     :::
     :::
@@ -220,7 +253,7 @@ Sungkyunkwan University (SKKU)
 
 <bR>
 
--   Yoojeong KIM \| 김유정
+-   Yoojeong KIM \| **김유정**
 
     ::: grid
     ::: g-col-4
@@ -228,9 +261,10 @@ Sungkyunkwan University (SKKU)
     :::
 
     ::: g-col-8
-    School of Convergence (*Dep. of Culture & Technology*)
 
     Sungkyunkwan University
+
+    School of Convergence (*Dep. of Culture & Technology*)
 
     ✉ yoojung0425\@g.skku.edu
     :::
