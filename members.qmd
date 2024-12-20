@@ -70,6 +70,27 @@ Sungkyunkwan University (SKKU)
 
 </br>
 
+-   Seo Young PARK \| **박서영**
+
+    ::: grid
+    ::: g-col-4
+
+    ![](img/00.jpg){width="130"}
+    :::
+    
+    ::: g-col-8
+    Sungkyunkwan Universiy
+
+    Graduate School of Immersive Media Engineering
+
+    ✉ 
+    :::
+    :::
+
+<br>
+
+
+
 -   Woo Hyun CHOI \| **최우현**
 
     ::: grid
@@ -93,7 +114,7 @@ Sungkyunkwan University (SKKU)
 
 <br>
 
--   Seung Kyung LEE \| **이승경**
+-   Seung Kyung LEE \| **이승경** 
 
     ::: grid
     ::: g-col-4
@@ -206,6 +227,32 @@ Sungkyunkwan University (SKKU)
     > Yebom majored in Culture&Technology Convergence and double majored in Psychology. She is interested in the high technology industry based on understanding of humans.
 
 </br>
+
+### Part time Researcher (Master)
+
+<br>
+
+-   Sungwoo Choung \| **정성우** \| LG Energy Solution
+
+    ::: grid
+    ::: g-col-4
+    ![](img/jsw_profile.jpg){width="130"}
+    :::
+
+    ::: g-col-8
+
+    Sungkyunkwan University
+
+    Graduate School of Data Science
+
+    ✉ ymrensol@lgensol.com
+    :::
+    :::
+
+    > Sungwoo Choung graduated from Yonsei University with a degree in Nano Science(Bachelor of Nanoscience Engineering) and Chemical Engineering(Bachelor of Chemical and Biomolecular Engineering). Now, he is in charge of Natural Language Processing (NLP) and Assessment of Large Language Models (LLM) at LG Energy Solution and studying Data Science at Sungkyunkwan University. He is interested in the application of Data Science and NLP.
+
+<br>
+
 
 ### Undergraduate Researcher
 
