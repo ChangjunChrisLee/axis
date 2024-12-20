@@ -15,9 +15,9 @@ website:
       - text: Activity
         href: research/working.qmd
       - text: Projects
-        href: proj/index.qmd
+        href: "https://changjunlee.com/proj/"
       - text: Publications
-        href: research/index.qmd
+        href: "https://changjunlee.com/research/"
 
       
 format:
