@@ -12,7 +12,7 @@ editor: visual
 
 </br>
 
-::: grid
+::::: grid
 ::: g-col-4
 ![](img/profile_cj_lee.jpg){width="130"}
 
@@ -32,7 +32,7 @@ Sungkyunkwan University (SKKU)
     -   Dep. of Immersive Media Engineering\
         ([Metaverse Graduate School](https://meta.skku.edu/meta/index.do))
 :::
-:::
+:::::
 
 > As a computational social scientist, CJ brings a unique interdisciplinary perspective to the fields of economics, innovation studies, and convergence technologies. With a background in natural sciences, including a bachelor's degree in biology and chemistry, I went on to earn a Ph.D. in technology management, economics, and policy. His global research experience includes working as a postdoctoral researcher at the National University of Singapore and University College Dublin. My research focuses on utilizing computational methods to tackle a wide range of social phenomena, including technology evolution & regional growth, knowledge management, and technology & convergence innovation. He was responsible for the Department of Media & Social Informatics and the Institution of Creativity & Interaction at Hanyang University in South Korea, and now He has joined the School of Convergence at SungKyunKwan University. He is passionate about using technology and data to drive innovation and solve real-world problems.
 
@@ -44,7 +44,7 @@ Sungkyunkwan University (SKKU)
 
 -   Yun-Woo CHOI \| **최윤우**
 
-    ::: grid
+    ::::: grid
     ::: g-col-4
     ![](img/yw_profile_2.jpg){width="130"}
     :::
@@ -56,7 +56,7 @@ Sungkyunkwan University (SKKU)
 
     ✉ yunwoochoi1004\@daum.net
     :::
-    :::
+    :::::
 
     <div>
 
@@ -72,51 +72,48 @@ Sungkyunkwan University (SKKU)
 
 -   Seo Young PARK \| **박서영**
 
-    ::: grid
+    ::::: grid
     ::: g-col-4
-
     ![](img/00.jpg){width="130"}
     :::
-    
+
     ::: g-col-8
     Sungkyunkwan Universiy
 
     Graduate School of Immersive Media Engineering
 
-    ✉ 
+    ✉ vespera.kr\@gmail.com
     :::
-    :::
+    :::::
+
+> SeoYoung is majored in sculpture and She is interest in immersive media and technology. She is passionate about creating new artistic experiences through audience interaction.
 
 <br>
 
-
-
 -   Woo Hyun CHOI \| **최우현**
 
-    ::: grid
+    ::::: grid
     ::: g-col-4
-
     ![](img/W_Choi.jpg){width="130"}
     :::
-    
+
     ::: g-col-8
     Sungkyunkwan Universiy
 
     Department of Interdisciplinary Program in Studies of Arts\
     Graduate School of Art
 
-
     ✉ woohxxn\@g.skku.edu
     :::
-    :::
+    :::::
 
 > Choi Woo-hyun graduated from Sungkyunkwan University with a degree in Dance (Bachelor of Arts in Dance), Sports Science (Bachelor of Science in Sports Science), and Studies of Glocal-Cultural Contents linkage (Bachelor of Modern Culture) and from Sangmyung University with a degree in Global Culture Content (Major of Arts Contents Convergence, Master of Arts). She is interested in researching Technology Art and focuses specifically on the convergence of Dance and Technology.
 
 <br>
 
--   Seung Kyung LEE \| **이승경** 
+-   Seung Kyung LEE \| **이승경**
 
-    ::: grid
+    ::::: grid
     ::: g-col-4
     ![](img/sk.jpg){width="130"}
     :::
@@ -128,7 +125,7 @@ Sungkyunkwan University (SKKU)
 
     ✉ leesinganna\@hanyang.ac.kr
     :::
-    :::
+    :::::
 
 </br>
 
@@ -138,21 +135,19 @@ Sungkyunkwan University (SKKU)
 
 -   Ye Seo LIM \| **임예서**
 
-    ::: grid
+    ::::: grid
     ::: g-col-4
     ![](img/ys_profile.jpeg){width="130"}
     :::
 
     ::: g-col-8
-
     Sungkyunkwan University
 
     Graduate School of Immersive Media Engineering
 
-
     ✉ ivisy6952\@g.skku.edu
     :::
-    :::
+    :::::
 
     > YS majored in media and social informatics and double majored in computer science. She is interested in the convergence of social science, such as media contents, and engineering science, such as computing and AI.
 
@@ -160,21 +155,19 @@ Sungkyunkwan University (SKKU)
 
 -   Sooyun KIM \| **김수연**
 
-    ::: grid
+    ::::: grid
     ::: g-col-4
     ![](img/ksy_profile.jpg){width="130"}
     :::
 
     ::: g-col-8
-
     Sungkyunkwan University
 
     Graduate School of Interaction Science
 
-
     ✉ soo1234\@g.skku.edu
     :::
-    :::
+    :::::
 
     > Sooyun majored in Chemistry and minored in Psychology. She is interested in user experience (UX) and human-computer interaction (HCI), with a focus on AI, digital platforms, and immersive media.
 
@@ -182,23 +175,21 @@ Sungkyunkwan University (SKKU)
 
 -   Gahui KIM \| **김가희**
 
-    ::: grid
+    ::::: grid
     ::: g-col-4
     ![](img/gh_profile.jpg){width="130"}
     :::
 
     ::: g-col-8
-
     Sungkyunkwan University
 
     School of Convergence (*Dep. of Culture & Technology*)
 
     Graduate School of Immersive Media Engineering
 
-
     ✉ gahee020907\@g.skku.edu
     :::
-    :::
+    :::::
 
     > Gahui majored in Culture&Technology Convergence and International Trade. She is interested in cultural content and immersive media, focusing on the relationship between user experience and content.
 
@@ -206,23 +197,21 @@ Sungkyunkwan University (SKKU)
 
 -   Yebom CHOI \| **최예봄**
 
-    ::: grid
+    ::::: grid
     ::: g-col-4
     ![](img/yb_profile.jpg){width="130"}
     :::
 
     ::: g-col-8
-
     Sungkyunkwan University
 
     Graduate School of Interaction Science
 
     School of Convergence (*Dep. of Culture & Technology*)
 
-
     ✉ yebom618\@g.skku.edu
     :::
-    :::
+    :::::
 
     > Yebom majored in Culture&Technology Convergence and double majored in Psychology. She is interested in the high technology industry based on understanding of humans.
 
@@ -234,25 +223,23 @@ Sungkyunkwan University (SKKU)
 
 -   Sungwoo Choung \| **정성우** \| LG Energy Solution
 
-    ::: grid
+    ::::: grid
     ::: g-col-4
     ![](img/jsw_profile.jpg){width="130"}
     :::
 
     ::: g-col-8
-
     Sungkyunkwan University
 
     Graduate School of Data Science
 
-    ✉ ymrensol@lgensol.com
+    ✉ ymrensol\@lgensol.com
     :::
-    :::
+    :::::
 
     > Sungwoo Choung graduated from Yonsei University with a degree in Nano Science(Bachelor of Nanoscience Engineering) and Chemical Engineering(Bachelor of Chemical and Biomolecular Engineering). Now, he is in charge of Natural Language Processing (NLP) and Assessment of Large Language Models (LLM) at LG Energy Solution and studying Data Science at Sungkyunkwan University. He is interested in the application of Data Science and NLP.
 
 <br>
-
 
 ### Undergraduate Researcher
 
@@ -260,20 +247,19 @@ Sungkyunkwan University (SKKU)
 
 -   Ga Hyeon KIM \| **김가현**
 
-    ::: grid
+    ::::: grid
     ::: g-col-4
     ![](img/ghyun_profile.jpg){width="130"}
     :::
 
     ::: g-col-8
-
     Sungkyunkwan University
 
     School of Convergence (*Dep. of Culture & Technology*)
 
     ✉ mulik425\@g.skku.edu
     :::
-    :::
+    :::::
 
     > Ga Hyeon majored in Culture &Technology Convergence and double majored in Department of Computer Science and Engineering. She is interested in Entertainment and Content Business based on AI & Immersive Technology.
 
@@ -281,20 +267,19 @@ Sungkyunkwan University (SKKU)
 
 -   Seonwoo LEE \| **이선우**
 
-    ::: grid
+    ::::: grid
     ::: g-col-4
     ![](img/swlee_profile.jpg){width="130"}
     :::
 
     ::: g-col-8
-
     Sungkyunkwan University
 
     School of Convergence (*Dep. of Culture & Technology*)
-    
+
     ✉ sw122\@g.skku.edu
     :::
-    :::
+    :::::
 
     > Seonwoo majored in Culture&Technology Convergence. She is interested in artificial intelligence and immersive media, focusing on user experience through the study of the human cognitive science and psychology.
 
@@ -302,19 +287,18 @@ Sungkyunkwan University (SKKU)
 
 -   Yoojeong KIM \| **김유정**
 
-    ::: grid
+    ::::: grid
     ::: g-col-4
     ![](img/kyj_profile.jpg){width="130"}
     :::
 
     ::: g-col-8
-
     Sungkyunkwan University
 
     School of Convergence (*Dep. of Culture & Technology*)
 
     ✉ yoojung0425\@g.skku.edu
     :::
-    :::
+    :::::
 
     > Yoojeong majored in Culture&Technology Convergence. She is interested in transmedia content with new social, cultural value based on artificial intelligence and immersive technology.
