@@ -1,6 +1,6 @@
 ---
-title: "Culture & Technology Convergence Lab"
-subtitle: "Entertaining People with Tech"
+# title: "AXIS Lab"
+# subtitle: "Analyze eXperiences, Informatics for Society's insights"
 comments: False
 format:
   html:
@@ -8,38 +8,36 @@ format:
     
 about:
   template: trestles
-  image: img/logo_transparent.png
-  image-shape: round
-  links:
- 
-    - icon: instagram
-      # text: Instagram
-      href: https://www.instagram.com/lee_changjun_/
-    - icon: envelope
-      # text: Email
-      href: mailto:changjun.chris.lee@gmail.com
+  image: img/AXIS_symbol_and_logo_black.png
+  # image-shape: round
+  # links:
+  # 
+  #   - icon: instagram
+  #     # text: Instagram
+  #     href: https://www.instagram.com/lee_changjun_/
+  #   - icon: envelope
+  #     # text: Email
+  #     href: mailto:changjun.chris.lee@gmail.com
 ---
 
-At the **Culture & Technology Convergence Lab**, we explore the symbiotic relationship between cultural phenomena and technological advancements. In an era where digital innovation continuously reshapes social dynamics, the CTCL serves as a premier interdisciplinary research nexus dedicated **to understanding and influencing the co-evolution of technology and human cultural practices**.
+**"Analyze eXperiences, Informatics for Society's insights"**
 
-Our lab specializes in examining how content and media trends and technological advance impact human behavior, health conditions, innovation pathways, and technology management & policy. Our research is **anchored in computational social science methodologies**, leveraging big data, and algorithmic approaches to decode the complex interactions between society and technology.
+<br>
 
+> **`AXIS Lab`** is a research lab specializing in Computational Social Science, utilizing data-driven approaches to analyze human-AI interactions, media dynamics, policy frameworks, and their societal impacts.
 
-```{mermaid}
-flowchart LR
+<br>
 
-  A[Tech] --> B(Human Behavior)
-  B --> C{Society}
-  C --> D{Culture}
-  B --> D
-  D --> A
+The core research pillars of `AXIS Lab` are:
 
-```
+-   **A**nalyzing: Conducting research with a strong foundation in data analysis
 
-</br>
+-   **X**periences: Studying the interactions between humans, AI, media, and policy
 
-Our mission is to foster a collaborative research environment where cutting-edge computational techniques inform public policy decisions, and sociocultural understanding enriches the design and governance of emerging technologies. The CTCL aims to be at the forefront of generating actionable insights for a sustainable and inclusive digital future, harnessing the power of innovation while navigating the challenges posed by rapid technological change.
+-   **I**nformatics: Utilizing data-driven methodologies to generate meaningful insights
 
-CTCL endeavors to not only advance academic knowledge but also to guide industry practices and inform government regulations. The lab is a melting pot of experts in media studies, innovation research, HCI, technology management, and policy, working together to craft a tech-infused society that remains true to human values and cultural diversity.
+-   **S**ociety: Providing actionable insights that contribute to societal and policy advancements
+
+Through this work, AXIS Lab aims to **"establish new AXIS of research"**, delivering impactful and practical insights.
 
 About our team members.. [here](members.qmd)

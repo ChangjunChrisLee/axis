@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "CTCL"
+  title: "AXIS"
   page-footer:
     left: "License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
     right:
@@ -23,7 +23,7 @@ website:
 format:
   html:
     theme: journal
-    # css: styles.css
+    css: styles.css
     toc: true
     linestretch: 1.25
     langfont:

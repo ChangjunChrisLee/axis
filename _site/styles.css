@@ -1,0 +1,60 @@
+/* styles.css */
+body {
+  background-color: white;
+  color: black;
+  font-family: 'Georgia', serif;
+}
+
+
+/* 링크 색상도 흑백으로 */
+a {
+  color: black;
+  text-decoration: underline;
+}
+a:hover {
+  color: gray;
+}
+/* 네비게이션 바 스타일 */
+.navbar {
+  background-color: black !important; /* 검은색 배경 */
+  border-bottom: 2px solid white !important; /* 흰색 테두리 */
+}
+
+/* 네비게이션 바 내부의 텍스트 (링크) */
+.navbar-brand, 
+.navbar-nav .nav-link {
+  color: white !important; /* 흰색 텍스트 */
+}
+
+/* 네비게이션 바 호버 효과 */
+.navbar-nav .nav-link:hover {
+  color: gray !important; /* 호버 시 회색 */
+}
+
+/* 네비게이션 바 활성화된 메뉴 */
+.navbar-nav .nav-item.active .nav-link {
+  color: lightgray !important; /* 활성화된 메뉴는 연한 회색 */
+  font-weight: bold;
+}
+
+/* 푸터 스타일 */
+.page-footer {
+  background-color: white;
+  border-top: 1px solid black;
+  color: black;
+}
+
+/* 코드 블럭 배경 */
+pre, code {
+  background-color: #f4f4f4;
+  color: black;
+}
+
+/* 표 스타일 */
+table {
+  border: 1px solid black;
+}
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+}
