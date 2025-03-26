@@ -46,7 +46,7 @@ editor: visual
 
     ::::: grid
     ::: g-col-4
-    ![](img/00.jpg){width="130"}
+    ![](images/clipboard-3899094989.png){width="130"}
     :::
 
     ::: g-col-8
