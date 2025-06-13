@@ -5,24 +5,26 @@ website:
   title: "AXIS"
   page-footer:
     left: "License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
-    right:
-      - icon: envelope
-        href: mailto:changjun.chris.lee@gmail.com
+    # right:
+    #   - icon: envelope
+    #     href: mailto:changjun.chris.lee@gmail.com
   navbar:
     right:
+      - href: about.qmd
+        text: About AXIS
       - href: members.qmd
         text: Members
-      - text: Activity
-        href: research/working.qmd
-      - text: Projects
-        href: "https://changjunlee.com/proj/"
-      - text: Publications
-        href: "https://changjunlee.com/research/"
+      - text: Proj & Research
+        href: "https://v2-embednotion.com/206c4c79c5094dc2835b2fdc1f5358c2"
+      # - text: Projects
+      #   href: "https://changjunlee.com/proj/"
+      # - text: Publications
+      #   href: "https://changjunlee.com/research/"
 
       
 format:
   html:
-    theme: journal
+    # theme: journal
     css: styles.css
     toc: true
     linestretch: 1.25

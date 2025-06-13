@@ -5,6 +5,12 @@ body {
   font-family: 'Georgia', serif;
 }
 
+body {
+  font-family: "Spoqa Han Sans Neo", "Noto Sans KR", "Apple SD Gothic Neo", sans-serif;
+  line-height: 1.6;
+  color: #222;
+}
+
 
 /* 링크 색상도 흑백으로 */
 a {
