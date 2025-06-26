@@ -259,6 +259,26 @@ editor: visual
 
 <br>
 
+-   Kangu LEE \| 이강우
+
+    ::::: grid
+    ::: g-col-4
+    ![](images/clipboard-3612802394.png){width="130"}
+    :::
+
+    ::: g-col-8
+    Hanyang University
+
+    Department of Media
+
+    ✉ kirihwa0408\@gmail.com
+    :::
+    :::::
+
+    > He double-majored in Media and Social Informatics and ICT Convergence. His interests lie in combining social science fields—such as media and local communities—with data science and AI to solve real-world problems.
+
+<br>
+
 ## Alumni
 
 <br>
