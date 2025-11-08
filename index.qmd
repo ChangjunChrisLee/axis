@@ -22,7 +22,7 @@ about:
 
 **"Analyze eXperiences, Informatics for Society's insights"**
 
-<br>
+**사회·경험디자인연구실**
 
 > **`AXIS Lab`** is a research lab specializing in Computational Social Science, utilizing data-driven approaches to analyze human-AI interactions, media dynamics, policy frameworks, and their societal impacts.
 
@@ -41,3 +41,5 @@ The core research pillars of `AXIS Lab` are:
 Through this work, AXIS Lab aims to **"establish new AXIS of research"**, delivering impactful and practical insights.
 
 About our team members.. [here](members.qmd)
+
+
