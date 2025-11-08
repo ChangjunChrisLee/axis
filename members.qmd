@@ -34,7 +34,7 @@ editor: visual
 :::
 :::::
 
-> As a computational social scientist, CJ brings a unique interdisciplinary perspective to the fields of economics, innovation studies, and convergence technologies. With a background in natural sciences, including a bachelor's degree in biology and chemistry, I went on to earn a Ph.D. in technology management, economics, and policy. His global research experience includes working as a postdoctoral researcher at the National University of Singapore and University College Dublin. My research focuses on utilizing computational methods to tackle a wide range of social phenomena, including technology evolution & regional growth, knowledge management, and technology & convergence innovation. He was responsible for the Department of Media & Social Informatics and the Institution of Creativity & Interaction at Hanyang University in South Korea, and now He has joined the School of Convergence at SungKyunKwan University. He is passionate about using technology and data to drive innovation and solve real-world problems.
+> As a computational social scientist, CJ brings a unique interdisciplinary perspective to the fields of economics, innovation studies, and convergence technologies. CJ's research focuses on utilizing computational methods to tackle a wide range of social phenomena, including technology evolution & regional growth, knowledge management, and technology & convergence innovation. 
 
 </br>
 
@@ -116,6 +116,8 @@ editor: visual
     ::: g-col-8
     Sungkyunkwan University
 
+    School of Convergence (*Dep. of Culture & Technology*)
+    
     Graduate School of Immersive Media Engineering
 
     ✉ gahee020907\@g.skku.edu
@@ -136,6 +138,8 @@ editor: visual
     ::: g-col-8
     Sungkyunkwan University
 
+    School of Convergence (*Dep. of Culture & Technology*)
+    
     Graduate School of Interaction Science
 
     ✉ yebom618\@g.skku.edu
@@ -164,7 +168,97 @@ editor: visual
 
     > Eunhye Shim majored in Photography and Video and worked as a policy researcher in the field of public cultural and art policy in Korea. Her research focuses on user experience and digital media, with an emerging interest in how people perceive and respond to technological changes in digital media environments.
 
+<br>
+
+
+-   Yoojeong KIM \| **김유정**
+
+    ::::: grid
+    ::: g-col-4
+    ![](img/kyj_profile.jpg){width="130"}
+    :::
+
+    ::: g-col-8
+    Sungkyunkwan University
+
+    School of Convergence (*Dep. of Culture & Technology*)
+
+    Graduate School of Interaction Science
+
+    ✉ yoojung0425\@g.skku.edu
+    :::
+    :::::
+
+    > Yoojeong majored in Culture&Technology Convergence. She is interested in transmedia content with new social, cultural value based on artificial intelligence and immersive technology.
+
 </br>
+
+
+
+### Undergraduate Researcher
+
+<br>
+
+-   Ga Hyeon KIM \| **김가현**
+
+    ::::: grid
+    ::: g-col-4
+    ![](img/ghyun_profile.jpg){width="130"}
+    :::
+
+    ::: g-col-8
+    Sungkyunkwan University
+
+    School of Convergence (*Dep. of Culture & Technology*)
+
+    ✉ mulik425\@g.skku.edu
+    :::
+    :::::
+
+    > Ga Hyeon majored in Culture &Technology Convergence and double majored in Department of Computer Science and Engineering. She is interested in Entertainment and Content Business based on AI & Immersive Technology.
+
+
+<br>
+
+-   Kangu LEE \| **이강우**
+
+    ::::: grid
+    ::: g-col-4
+    ![](images/clipboard-3612802394.png){width="130"}
+    :::
+
+    ::: g-col-8
+    Hanyang University
+
+    Department of Media
+
+    ✉ kirihwa0408\@gmail.com
+    :::
+    :::::
+
+    > He double-majored in Media and Social Informatics and ICT Convergence. His interests lie in combining social science fields—such as media and local communities—with data science and AI to solve real-world problems.
+    
+<br>
+
+-   Jimin Oh \| **오지민** 
+
+    ::::: grid
+    ::: g-col-4
+
+    :::
+
+    ::: g-col-8
+    Dong-A University
+
+    Department of Media Communication
+
+    ✉ jamani95@naver.com
+    :::
+    :::::
+
+    > 
+
+<Br>
 
 ### Part time Researcher (Ph.D.)
 
@@ -215,70 +309,6 @@ editor: visual
 
 <br>
 
-### Undergraduate Researcher
-
-<br>
-
--   Ga Hyeon KIM \| **김가현**
-
-    ::::: grid
-    ::: g-col-4
-    ![](img/ghyun_profile.jpg){width="130"}
-    :::
-
-    ::: g-col-8
-    Sungkyunkwan University
-
-    School of Convergence (*Dep. of Culture & Technology*)
-
-    ✉ mulik425\@g.skku.edu
-    :::
-    :::::
-
-    > Ga Hyeon majored in Culture &Technology Convergence and double majored in Department of Computer Science and Engineering. She is interested in Entertainment and Content Business based on AI & Immersive Technology.
-
-<bR>
-
--   Yoojeong KIM \| **김유정**
-
-    ::::: grid
-    ::: g-col-4
-    ![](img/kyj_profile.jpg){width="130"}
-    :::
-
-    ::: g-col-8
-    Sungkyunkwan University
-
-    School of Convergence (*Dep. of Culture & Technology*)
-
-    ✉ yoojung0425\@g.skku.edu
-    :::
-    :::::
-
-    > Yoojeong majored in Culture&Technology Convergence. She is interested in transmedia content with new social, cultural value based on artificial intelligence and immersive technology.
-
-<br>
-
--   Kangu LEE \| 이강우
-
-    ::::: grid
-    ::: g-col-4
-    ![](images/clipboard-3612802394.png){width="130"}
-    :::
-
-    ::: g-col-8
-    Hanyang University
-
-    Department of Media
-
-    ✉ kirihwa0408\@gmail.com
-    :::
-    :::::
-
-    > He double-majored in Media and Social Informatics and ICT Convergence. His interests lie in combining social science fields—such as media and local communities—with data science and AI to solve real-world problems.
-
-<br>
-
 ## Alumni
 
 <br>
@@ -291,8 +321,8 @@ editor: visual
 
 -   Jieun PARK \| **박지은**
 
-    -   2022 석사졸업, KAKAO
+    -   2022 석사졸업 | 現 KAKAO 정책팀팀
 
 -   Seonwoo LEE \| **이선우**
 
-    -   2024 학부연구생
+    -   2024 학부연구생 졸업 | 現 Cornell University 석사과정
