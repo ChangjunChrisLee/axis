@@ -34,7 +34,7 @@ editor: visual
 :::
 :::::
 
-> As a computational social scientist, CJ brings a unique interdisciplinary perspective to the fields of economics, innovation studies, and convergence technologies. CJ's research focuses on utilizing computational methods to tackle a wide range of social phenomena, including technology evolution & regional growth, knowledge management, and technology & convergence innovation. 
+> As a computational social scientist, CJ brings a unique interdisciplinary perspective to the fields of economics, innovation studies, and convergence technologies. CJ's research focuses on utilizing computational methods to tackle a wide range of social phenomena, including technology evolution & regional growth, knowledge management, and technology & convergence innovation.
 
 </br>
 
@@ -60,10 +60,9 @@ editor: visual
 
 > SeoYoung is majored in sculpture and She is interest in immersive media and technology. She is passionate about creating new artistic experiences through audience interaction.
 
-
 <br>
 
--   Ye Seo LIM \| **임예서 \| *Lab Chief***
+-   Ye Seo LIM \| **임예서 \| *Lab Modulaotor**
 
     ::::: grid
     ::: g-col-4
@@ -73,14 +72,14 @@ editor: visual
     ::: g-col-8
     Sungkyunkwan University
 
-    Department of Applied  Artificial Intelligence
+    Department of Applied Artificial Intelligence
 
     ✉ ivisy6952\@g.skku.edu
     :::
     :::::
 
     > YS majored in media and social informatics and double majored in computer science. She is interested in the convergence of social science, such as media contents, and engineering science, such as computing and AI.
-    
+
 <br>
 
 ### Master's degree Students
@@ -167,7 +166,6 @@ editor: visual
 
 <br>
 
-
 -   Yoojeong KIM \| **김유정**
 
     ::::: grid
@@ -190,32 +188,53 @@ editor: visual
 
 </br>
 
--   Kangu LEE \| **이강우**
+-   KangU LEE \| **이강우**
 
     ::::: grid
     ::: g-col-4
-    ![](images/clipboard-3612802394.png){width="130"}
+    ![](img/gangwoo_profile.jpg){width="130"}
     :::
 
     ::: g-col-8
     Sungkyunkwan University
 
-    Department of Applied  Artificial Intelligence
+    Department of Applied Artificial Intelligence
 
-    ✉ kirihwa0408\@gmail.com
+    ✉ goguri0408@g.skku.edu
     :::
     :::::
 
-    > He double-majored in Media and Social Informatics and ICT Convergence. His interests lie in combining social science fields—such as media and local communities—with data science and AI to solve real-world problems.
-    
+    > KangU double-majored in Media and Social Informatics and ICT Convergence. KangU's interests lie in combining social science fields—such as media and local communities—with data science and AI to solve real-world problems.
+
 <br>
 
--   Jeemin Oh \| **오지민** 
+-   Haemin Hong \| **홍혜민**
+
+    :::: grid
+    
+    ::: g-col-4
+    ![](img/haemin_profile.jpg){width="130"}
+    :::
+    
+    
+    ::: g-col-8
+    Sungkyunkwan University
+
+    Department of Interaction Science
+
+    ✉ fhaemcheeese@skku.edu
+    :::
+    ::::
+
+    > She double majored in Media and Social Informatics and Advertising and PR. Her interests lie in exploring how technology can be used in ways that benefit people and how it can contribute to solving social challenges.
+
+<br>
+
+-   Jeemin Oh \| **오지민**
 
     ::::: grid
     ::: g-col-4
     ![](img/jimin_profile.jpg){width="130"}
-
     :::
 
     ::: g-col-8
@@ -223,12 +242,11 @@ editor: visual
 
     Department of Interaction Science
 
-    ✉ faintpink95@naver.com
+    ✉ faintpink95\@naver.com
     :::
     :::::
 
     > He majored in Media & Communication and AI•SW Convergence. He is interested in computational social science in the field of human-computer interaction (HCI), with a focus on big data.
-
 
 ### Undergraduate Researcher
 
@@ -251,7 +269,6 @@ editor: visual
     :::::
 
     > Ga Hyeon majored in Culture &Technology Convergence and double majored in Department of Computer Science and Engineering. She is interested in Entertainment and Content Business based on AI & Immersive Technology.
-
 
 <Br>
 
@@ -291,8 +308,8 @@ editor: visual
 
 -   Jieun PARK \| **박지은**
 
-    -   2022 석사졸업 | 現 KISDI 연구원 (2024-2025 KAKAO 정책팀)
+    -   2022 석사졸업 \| 現 KISDI 연구원 (2024-2025 KAKAO 정책팀)
 
 -   Seonwoo LEE \| **이선우**
 
-    -   2024 학부연구생 졸업 | 現 Cornell University 석사과정
+    -   2024 학부연구생 졸업 \| 現 Cornell University 석사과정
