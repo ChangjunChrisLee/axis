@@ -222,7 +222,7 @@ editor: visual
 
     Department of Interaction Science
 
-    ✉ fhaemcheeese@skku.edu
+    ✉ haemcheeese@skku.edu
     :::
     ::::
 
